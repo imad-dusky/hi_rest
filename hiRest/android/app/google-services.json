@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806452613866",
+    "firebase_url": "https://hi-rest.firebaseio.com",
+    "project_id": "hi-rest",
+    "storage_bucket": "hi-rest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806452613866:android:2a26d5a52be5827280bd93",
+        "android_client_info": {
+          "package_name": "com.example.hiRest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806452613866-vjsce4kffelcf7j7f821tas2an66sn20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkvGutbd6FmBacuWeNwPpu4qv3mwkByo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806452613866-vjsce4kffelcf7j7f821tas2an66sn20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
